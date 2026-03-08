@@ -1,0 +1,3 @@
+interface:
+  display_name: "Windows SSH Control"
+  short_description: "Operate Windows over SSH from Mac"
