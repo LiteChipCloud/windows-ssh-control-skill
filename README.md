@@ -159,3 +159,11 @@ windows-ssh-control-skill/
 ## 开源许可证
 
 本项目采用 `Apache-2.0`，详见 `LICENSE`。
+
+## 社区治理
+
+1. 安全策略：`SECURITY.md`
+2. 贡献指南：`CONTRIBUTING.md`
+3. 社区行为规范：`CODE_OF_CONDUCT.md`
+4. 归因声明：`NOTICE`
+5. CI 门禁：`.github/workflows/ci.yml`
