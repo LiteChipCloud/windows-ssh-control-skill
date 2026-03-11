@@ -112,6 +112,15 @@ windows-ssh-control-skill/
     └── setup_ssh_trust.ps1
 ```
 
+## 详细设计文档
+
+| 文档 | 说明 |
+|---|---|
+| `docs/design/00-设计文档索引.md` | 设计文档总览与阅读顺序 |
+| `docs/design/01-控制链路架构设计.md` | Mac/Linux -> Windows SSH 控制面模型 |
+| `docs/design/02-命令执行与文件传输模型.md` | `ps/wsl/copy/dir-report` 的执行契约 |
+| `docs/design/03-安全边界与审计设计.md` | 最小权限、密钥策略、审计建议 |
+
 ## 环境变量说明
 
 | 变量 | 默认值 | 说明 |
